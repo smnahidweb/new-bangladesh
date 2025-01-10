@@ -219,7 +219,24 @@ border: none;
 .quotue-description{
  
    padding: 20px;
+   color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
 }
 .quote-title,.position{
     padding-left: 20px;
+}
+.quote-title{
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 600;
+
+}
+.position{
+    color: rgba(14, 14, 14, 0.6);
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
 }
