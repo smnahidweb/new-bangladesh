@@ -1,0 +1,104 @@
+*{
+    font-family: Fira Sans;
+}
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.BD{
+
+margin-left: 107px;
+text-decoration: none;
+
+}
+.BD>a{
+    text-decoration: none;
+    color: black;
+}
+.sign{
+    margin-right: 107px;
+    color: rgb(0, 106, 80);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+   border-color: rgb(0, 106, 80);
+   padding-top: 10px;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-bottom: 10px;
+   border-radius: 5px;
+   
+}
+.banner{
+    background-color: rgb(198, 228, 214);
+    width: 1280px;
+    height: 560px;
+    margin-left: 107px;
+    margin-right: 110px;
+    border-radius: 20px;
+    margin-top: 20px;
+   
+}
+.sub-title{
+ color: rgba(14, 14, 14, 0.5);
+font-family: Fira Sans;
+font-size: 24px;
+font-weight: 500;
+width: 416px;
+height: 20px;
+margin-left: 100px;
+}
+.title{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+width: 416px;
+height: 135px;
+margin-left: 100px;
+
+}
+.banner-container{
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.btn{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+border-radius: 8px;
+background: rgb(0, 106, 80);
+margin-left: 105px;
+padding: 17px 34px 17px 34px;
+border: none;
+}
+.banner-img{
+    margin-top: 50px;
+}
+.pillar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 15px;
+    margin-left: 107px;
+    margin-right: 110px;
+}
+.innovation,.sustainability,.infrastructure,.empower{
+ box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+padding: 24px;
+ color: rgba(14, 14, 14, 0.7);
+
+}
+.pillar-section{
+    margin-left: 107px;
+}
