@@ -459,3 +459,85 @@ text-align: left;
    margin-left: 500px;
 
 }
+.news-letter{
+    border-radius: 24px;
+   background-color: rgb(198, 228, 214);
+   margin-left: 107px;
+   margin-right: 120px;
+   padding-bottom: 10px;
+   margin-bottom: 20px;
+
+}
+.news-letter-title{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+text-align: center;
+}
+.news-letter-description{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+
+
+}
+.subscribe-section{
+    display: flex;
+    gap: 0;
+    align-items: center;
+    justify-content: flex-start;
+}
+.email{
+    margin-left: 200px;
+    /* margin-top: 10px; */
+    box-sizing: border-box;
+   background: rgb(255, 255, 255);
+   
+   border: none;
+   text-align: center;
+   width: 600px;
+   height: 49px;
+   padding: 17px 34px 17px 34px;
+}
+.btn2{
+    color: rgb(255, 255, 255);
+    font-family: Fira Sans;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    border-radius: 0px 8px 8px 0px;
+   
+    background: rgb(0, 106, 80);
+    margin-top: 18px;
+    padding: 17px 34px 17px 34px;
+    border: none;
+    margin-top: 10px;
+}
+.support{
+    text-align: center;
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+}
+.last-part{
+    background-color: rgb(255, 255, 255);
+
+}
+.social{
+    display: flex;
+    gap: 10px;
+   margin-left: 37%;
+   padding: 50px 160px 50px 160px;
+}
+.last-title{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 30px;
+font-weight: 700;
+text-align: center;
+padding-top: 20px;
+}
