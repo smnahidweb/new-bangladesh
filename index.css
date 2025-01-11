@@ -543,3 +543,19 @@ font-weight: 700;
 text-align: center;
 padding-top: 20px;
 }
+/* Hover Section */
+button:hover{
+   background-color: tomato;
+   color:green;
+  
+   font-weight:700;
+   border-radius: 24px;
+}
+.BD:hover{
+    background-color: tomato;
+    color:green;
+    border-radius: 24px;
+    padding: 5px;
+    
+
+}
